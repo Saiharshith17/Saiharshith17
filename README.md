@@ -31,13 +31,17 @@
 
 <table cellpadding="10" cellspacing="0" width="100%" bgcolor="#f3f4f6" style="border-radius:8px">
   <tr>
-    <td align="center">
+    <td align="left" valign="top">
       <h3>ExpenseTrackerProject</h3>
-      <p>Full‑stack expense tracker with auth, charts & real‑time updates.</p>
-      <a href="https://github.com/Saiharshith17/ExpenseTrackerProject"><img src="https://img.shields.io/badge/Repository-View-blue?logo=github" alt="Repo Link" /></a>
+      <p>
+        I containerized all microservices with Docker and added Redis‑powered duplicate detection to cut resource consumption by 40%. I built a JWT‑based AuthService with refresh tokens to eliminate 90% of session issues and deployed a Kong API Gateway for secure, low‑latency routing that reduced errors by 70%. I also optimized event pipelines with Kafka and RabbitMQ and used OpenAI LangChain for bank‑message transformations, achieving 99% accuracy.
+      </p>
+      <p><strong>Technologies:</strong> ReactJS, JavaScript, Spring Boot, Groovy, Hibernate, MySQL, Context API, Python, LangChain, Docker, Kafka, RabbitMQ, Redis, HTML, CSS</p>
+      <p><a href="https://github.com/Saiharshith17/ExpenseTrackerProject"><img src="https://img.shields.io/badge/🔗%20Repo-View-blue?logo=github" alt="Repo Link" /></a></p>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -61,7 +65,6 @@
 </p>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshith17&" alt="saiharshith17" /></p>
 <p align="center">
   Built with ❤️ and ☕
 </p>
