@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<p align="center">
- <p align="center">
-  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Saiharshith17/Saiharshith17/main/myphoto.jpg&h=240&w=240&fit=cover&mask=circle"
-       alt="Saiharshith Eedara" />
-</p>
-</p>
+
 </p>
 
 <p align="center">
