@@ -1,53 +1,71 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Hi there, I'm Sai Harshith!
 
-###
+Welcome to my GitHub profile! I'm a passionate developer working on building modern, scalable web applications and learning something new every day.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🎓 B.Tech CSE student
+- 💻 Focused on MERN stack, Python (FastAPI), Spring Boot
+- 🌱 Currently learning: Smart Pointers in C++, Advanced Backend Design
+- ⚡ Love solving problems on LeetCode (400+ problems solved!)
 
-###
+---
 
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=Saiharshith17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+## 📂 My Key Projects
 
-<img src="https://github-profile-trophy.vercel.app?username=Saiharshith17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+### 📌 Edu Platform
+A complete learning management system with MERN stack.
+> - Course recommendations, quizzes, chatbot, admin dashboard
+> - Tags, ranking-based recommendations
+> - [🔗 View Repo](https://github.com/SaiHarshith17/edu_platform)
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 📌 Recommendation API
+FastAPI service for recommending courses.
+> - MongoDB integration
+> - Smart tagging and ranking
+> - [🔗 View Repo](https://github.com/SaiHarshith17/recommendation_api)
 
-###
+---
+
+### 📌 Shop App
+Full-stack ecommerce app (forked and customized)
+> - React front-end with Vite
+> - Node/Express backend
+> - [🔗 View My Fork](https://github.com/SaiHarshith17/shop-app1)
+
+---
+
+### 📌 Time Tracker
+Track tasks and time spent using Spring Boot and MySQL
+> - REST API for time logging
+> - Traditional CSS frontend
+> - [🔗 View Repo](https://github.com/SaiHarshith17/time-tracker)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaiHarshith17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=SaiHarshith17&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+- 📫 Email: saiharshith17@example.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- 🌟 LeetCode: [Your LeetCode Profile](https://leetcode.com)
+- 🗂️ Portfolio Website (Coming Soon!)
+
+---
+
+*Thanks for visiting! Feel free to explore my repos and connect with me.*
